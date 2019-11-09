@@ -24,9 +24,9 @@ II.	주차별 학습 계획
 						https://niceguy1575.tistory.com/95
 	-SVM : https://ratsgo.github.io/machine%20learning/2017/05/23/SVM/
     		https://ratsgo.github.io/machine%20learning/2017/05/30/SVM3/
-4.	bagging Randomforest 
-        boosting adaboost
-	cluster kmeans
+4 week.	bagging Randomforest https://godongyoung.github.io/머신러닝/2018/02/23/ISL-Tree-Based-Methods_ch8.html
+        boosting adaboost http://blog.naver.com/PostView.nhn?blogId=gksshdk8003&logNo=220911836024
+	cluster kmeans https://medium.com/@nsh235482/k-means-clustering-6ab85a2a32ad
 	
 5.	비지도 학습
 
@@ -59,6 +59,7 @@ https://gomguard.tistory.com/177?category=712467 , PART 8 까지
         cnn 설명 영상 : edwith - https://www.edwith.org/deeplearningchoi/lecture/15296/
                         모두의 딥러닝 - https://www.youtube.com/watch?v=Em63mknbtWo
     4주차.	Cnn – mnist cnn 코드 리뷰
+               sourcecode    https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/cnn_mnist_basic.ipynb
     
 5.	Rnn – 모두의 딥러닝
 6.	Rnn 실습
